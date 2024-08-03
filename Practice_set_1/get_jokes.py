@@ -1,6 +1,6 @@
-import pyjokes
+import pyjokes # import external library for Jokes
 
-prompt=''
+prompt='' # variable initialization
 
 prompt += '\nDo you want a new Jokes y(or anything)/n :'
 
